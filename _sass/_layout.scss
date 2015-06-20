@@ -105,6 +105,9 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    li {
+        display: inline;
+    }
 }
 
 .footer-col-wrapper {
@@ -115,7 +118,7 @@
 }
 
 .footer-col {
-    float: left;
+    float: right;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
 }
