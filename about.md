@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am a
+Daydreaming about what I want to create.
+
+Make things in small pieces with good abstraction.
